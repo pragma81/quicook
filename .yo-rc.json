@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "quicook",
+    "packageName": "com.pragma.quicook",
+    "packageFolder": "com/pragma/quicook",
+    "authenticationType": "xauth",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "useCompass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "7",
+    "rememberMeKey": "1fc35cc1dc7ec205f489dfb1711b0f7fb7adabbb"
+  }
+}
